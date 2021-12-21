@@ -211,11 +211,11 @@ body{
 	margin-left:10%;
 	margin-top:30px;
 	float:left;
-	background-image:url('t1a.png');
+	background-image:url('t1a.jpg');
 	
 }
 .t1:hover{
-	background-image:url('t1b.png');
+	background-image:url('t1b.jpg');
 }
 .t2{
 	width:18%;
@@ -226,7 +226,7 @@ body{
 	background-image:url('t2a.jpg');
 }
 .t2:hover{
-	background-image:url('t2b.png');
+	background-image:url('t2b.jpg');
 }
 .t3{
 	width:18%;
@@ -234,10 +234,10 @@ body{
 	margin-left:3%;
 	margin-top:30px;
 	float:left;
-	background-image:url('t3a.png');
+	background-image:url('t3a.jpg');
 }
 .t3:hover{
-	background-image:url('t3b.png');
+	background-image:url('t3b.jpg');
 }
 .t4{
 	width:18%;
@@ -245,10 +245,10 @@ body{
 	margin-left:3%;
 	margin-top:30px;
 	float:left;
-	background-image:url('t4a.png');
+	background-image:url('t4a.jpg');
 }
 .t4:hover{
-	background-image:url('t4b.png')
+	background-image:url('t4b.jpg')
 }
 .t5{
 	width:18%;
@@ -256,10 +256,10 @@ body{
 	margin-left:10%;
 	margin-top:30px;
 	float:left;
-	background-image:url('t5a.png');
+	background-image:url('t5a.jpg');
 }
 .t5:hover{
-	background-image:url('t5b.png')
+	background-image:url('t5b.jpg')
 }
 .t6{
 	width:18%;
@@ -267,10 +267,10 @@ body{
 	margin-left:3%;
 	margin-top:30px;
 	float:left;
-	background-image:url('t6a.png');
+	background-image:url('t6a.jpg');
 }
 .t6:hover{
-	background-image:url('t6b.png')
+	background-image:url('t6b.jpg')
 }
 
 .t7{
@@ -279,10 +279,10 @@ body{
 	margin-left:3%;
 	margin-top:30px;
 	float:left;
-	background-image:url('t7a.png');
+	background-image:url('t7a.jpg');
 }
 .t7:hover{
-	background-image:url('t7b.png')
+	background-image:url('t7b.jpg')
 }
 .t8{
 	width:18%;
@@ -290,10 +290,10 @@ body{
 	margin-left:3%;
 	margin-top:30px;
 	float:left;
-	background-image:url('t8a.png');
+	background-image:url('t8a.jpg');
 }
 .t8:hover{
-	background-image:url('t8b.png')
+	background-image:url('t8b.jpg')
 }
 .t9{
 	width:18%;
@@ -301,10 +301,10 @@ body{
 	margin-left:10%;
 	margin-top:30px;
 	float:left;
-	background-image:url('t9a.png');
+	background-image:url('t9a.jpg');
 }
 .t9:hover{
-	background-image:url('t9b.png')
+	background-image:url('t9b.jpg')
 }
 .t10{
 	width:18%;
@@ -312,12 +312,12 @@ body{
 	margin-left:3%;
 	margin-top:30px;
 	float:left;
-	background-image:url('t10a.png');
+	background-image:url('t10a.jpg');
 	background-size:cover;
 	background-repeat:no-repeat;
 }
 .t10:hover{
-	background-image:url('t10b.png')
+	background-image:url('t10b.jpg')
 }
 .t11{
 	width:18%;
@@ -325,10 +325,10 @@ body{
 	margin-left:3%;
 	margin-top:30px;
 	float:left;
-	background-image:url('t11a.png');
+	background-image:url('t11a.jpg');
 }
 .t11:hover{
-	background-image:url('t11b.png')
+	background-image:url('t11b.jpg')
 }
 .t12{
 	width:18%;
@@ -336,10 +336,10 @@ body{
 	margin-left:3%;
 	margin-top:30px;
 	float:left;
-	background-image:url('t12a.png');
+	background-image:url('t12a.jpg');
 }
 .t12:hover{
-	background-image:url('t12b.png')
+	background-image:url('t12b.jpg')
 }
 
 .t13{
@@ -348,10 +348,10 @@ body{
 	margin-left:10%;
 	margin-top:30px;
 	float:left;
-	background-image:url('t13a.png');
+	background-image:url('t13a.jpg');
 }
 .t13:hover{
-	background-image:url('t13b.png')
+	background-image:url('t13b.jpg')
 }
 .t14{
 	width:18%;
@@ -359,10 +359,10 @@ body{
 	margin-left:3%;
 	margin-top:30px;
 	float:left;
-	background-image:url('t14a.png');
+	background-image:url('t14a.jpg');
 }
 .t14:hover{
-	background-image:url('t14b.png')
+	background-image:url('t14b.jpg')
 }
 .t15{
 	width:18%;
@@ -370,10 +370,10 @@ body{
 	margin-left:3%;
 	margin-top:30px;
 	float:left;
-	background-image:url('t15a.png');
+	background-image:url('t15a.jpg');
 }
 .t15:hover{
-	background-image:url('t15b.png')
+	background-image:url('t15b.jpg')
 }
 .t16{
 	width:18%;
@@ -381,10 +381,10 @@ body{
 	margin-left:3%;
 	margin-top:30px;
 	float:left;
-	background-image:url('t16a.png');
+	background-image:url('t16a.jpg');
 }
 .t16:hover{
-	background-image:url('t16b.png')
+	background-image:url('t16b.jpg')
 }
 
 
